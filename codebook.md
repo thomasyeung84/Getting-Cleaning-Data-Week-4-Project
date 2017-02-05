@@ -50,6 +50,30 @@
 # timedomainbodygyroscopemagnitude-standarddeviation = the standard deviation of body gyroscope magnitude in time domain
 # timedomainbodygyroscopejerkmagnitude-mean = the mean of body gyroscope jerk magnitude in time domain
 # timedomainbodygyroscopejerkmagnitude-standarddeviation = the standard deviation of body gyroscope jerk magnitude in time domain
-
-
+# freqdomainbodyaccelerometer-mean-x = the mean of x axis of body accelerometer in frequency domain
+# freqdomainbodyaccelerometer-mean-y = the mean of y axis of body accelerometer in frequency domain
+# freqdomainbodyaccelerometer-mean-z = the mean of z axis of body accelerometer in frequency domain
+# freqdomainbodyaccelerometer-standarddeviation-x = the standard deviation of x axis of body accelerometer in frequency domain
+# freqdomainbodyaccelerometer-standarddeviation-y = the standard deviation of y axis of body accelerometer in frequency domain
+# freqdomainbodyaccelerometer-standarddeviation-z = the standard deviation of z axis of body accelerometer in frequency domain
+# freqdomainbodyaccelerometerjerk-mean-x = the mean of x axis of body accelerometer jerk in frequency domain
+# freqdomainbodyaccelerometerjerk-mean-y = the mean of y axis of body accelerometer jerk in frequency domain
+# freqdomainbodyaccelerometerjerk-mean-z = the mean of z axis of body accelerometer jerk in frequency domain
+# freqdomainbodyaccelerometerjerk-standarddeviation-x = the standard deviation of x axis of body accelerometer jerk in frequency domain
+# freqdomainbodyaccelerometerjerk-standarddeviation-y = the standard deviation of y axis of body accelerometer jerk in frequency domain
+# freqdomainbodyaccelerometerjerk-standarddeviation-z = the standard deviation of z axis of body accelerometer jerk in frequency domain
+# freqdomainbodygyroscope-mean-x = the mean of x axis of body gyroscope in frequency domain
+# freqdomainbodygyroscope-mean-y = the mean of y axis of body gyroscope in frequency domain
+# freqdomainbodygyroscope-mean-z = the mean of z axis of body gyroscope in frequency domain
+# freqdomainbodygyroscope-standarddeviation-x = the standard deviation of x axis of body gyroscope in frequency domain
+# freqdomainbodygyroscope-standarddeviation-y = the standard deviation of y axis of body gyroscope in frequency domain
+# freqdomainbodygyroscope-standarddeviation-z = the standard deviation of z axis of body gyroscope in frequency domain
+# freqdomainbodyaccelerometermagnitude-mean = the mean of body accelerometer magnitude in frequency domain
+# freqdomainbodyaccelerometermagnitude-standarddeviation = the standard deviation of body accelerometer magnitude in frequency domain
+# freqdomainbodyaccelerometerjerkmagnitude-mean = the mean of body accelerometer jerk magnitude in frequency domain
+# freqdomainbodyaccelerometerjerkmagnitude-standarddeviation = the standard deviation of body accelerometer jerk magnitude in frequency domain
+# freqdomainbodygyroscopemagnitude-mean = the mean of body gyroscope magnitude in frequency domain
+# freqdomainbodygyroscopemagnitude-standarddeviation = the standard deviation of body gyroscope magnitude in frequency domain
+# freqdomainbodygyroscopejerkmagnitude-mean = the mean of body gyroscope jerk magnitude in frequency domain
+# freqdomainbodygyroscopejerkmagnitude-standarddeviation = the standard deviation of body gyroscope jerk magnitude in frequency domain
 
